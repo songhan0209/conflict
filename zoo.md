@@ -1,4 +1,4 @@
 bird
 tiger
-panda1
+panda2
 elephant
